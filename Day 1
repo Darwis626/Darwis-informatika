@@ -1,0 +1,5 @@
+public class darwis{
+public static void main [String arts]{
+system. out. println("Halo world");
+}
+}
